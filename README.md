@@ -256,7 +256,9 @@ Screenshot yang disarankan:
 2. Dashboard utama.
 3. Daftar produk.
 4. ERD Database
-   ![![ERD Web.png](https://github.com/sriauliaputri0405/laravel-inventory-sales/assets/...)
+   <img width="1158" height="719" alt="ERD Web" src="https://github.com/user-attachments/assets/96f7aaa6-7ca1-4f92-81b1-0f90ce5e668c" />
+
+
 
 Pilih screenshot yang menunjukkan fungsi aplikasi secara jelas dan gunakan data demo, bukan data sensitif.
 
