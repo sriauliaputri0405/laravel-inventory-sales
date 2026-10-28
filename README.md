@@ -256,8 +256,7 @@ Screenshot yang disarankan:
 2. Dashboard utama.
 3. Daftar produk.
 4. ERD Database
-   <img width="1158" height="719" alt="ERD Web" src="https://github.com/user-attachments/assets/ffa03056-919f-4ed4-a2dd-45c2d276ac7c" />
-
+   <img width="1158" height="719" alt="ERD Web" src="https://github.com/user-attachments/assets/0a61ad90-a52b-40f4-9929-75119f4fc217" />
 
 
 
